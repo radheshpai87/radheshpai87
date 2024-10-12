@@ -19,7 +19,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=radheshpai87&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 # ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=radheshpai87&limit=5&theme=dracula&combine_all_yearly_contributions=true)
