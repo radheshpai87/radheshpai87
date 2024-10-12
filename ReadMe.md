@@ -5,7 +5,7 @@
 # 💫 About Me:
 🔭Currently building a personal portfolio website using basic HTML & CSS.<br>👯 I’m excited to work on open-source JavaScript and Python projects, especially in web development or AI.<br>🤝 Eager to learn from experienced DevOps professionals about best practices for CI/CD pipelines, Docker, and cloud infrastructure. <br>🌱 I’m currently learning JavaScript and its libraries for frontend web development.<br>💬 Ask me about C++ or Python.<br>⚡ When I’m not coding, you can find me binge-watching documentaries or trying to master the Rubik’s cube!<br><br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/languid18) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Radhesh-Pai-1) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22271647) [![Gamil](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:radheshpai802@gmail.com)
 
 # 💻 Tech Stack:
@@ -15,13 +15,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=radheshpai87&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=radheshpai87&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=radheshpai87&theme=codeSTACKr&no-frame=false&no-bg=false&margin-w=4)
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=radheshpai87&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=radheshpai87&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true)
 
 ---
