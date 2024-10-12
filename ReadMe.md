@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A7F72B&center=true&vCenter=true&width=435&lines=Hello+World!!+%F0%9F%91%8B;I+am+Radhesh+Pai+%F0%9F%94%A5+!!!"/>
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?weight=100&size=50&color=A7F72B&center=true&vCenter=true&width=1000&height=500&lines=Hello+World!!+%F0%9F%91%8B;I+am+Radhesh+Pai+%F0%9F%94%A5+!!!"/>
 </h1>
 
 # 💫 About Me:
