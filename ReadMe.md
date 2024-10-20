@@ -6,7 +6,8 @@
 🔭Currently building a personal portfolio website using basic HTML & CSS.<br>👯 I’m excited to work on open-source JavaScript and Python projects, especially in web development or AI.<br>🤝 Eager to learn from experienced DevOps professionals about best practices for CI/CD pipelines, Docker, and cloud infrastructure. <br>🌱 I’m currently learning JavaScript and its libraries for frontend web development.<br>💬 Ask me about C++ or Python.<br>⚡ When I’m not coding, you can find me binge-watching documentaries or trying to master the Rubik’s cube!<br><br>
 
 # 📌 Pinned Repos:
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=radheshpai87&repo=Kalvium-Code-Vault&theme=dracula)](https://github.com/radheshpai87/Kalvium-Code-Vault).......[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=radheshpai87&repo=radheshpai87.github.io&theme=dracula)](https://github.com/radheshpai87/radheshpai87.github.io)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=radheshpai87&repo=Kalvium-Code-Vault&theme=dracula)](https://github.com/radheshpai87/Kalvium-Code-Vault) <br>
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=radheshpai87&repo=radheshpai87.github.io&theme=dracula)](https://github.com/radheshpai87/radheshpai87.github.io)
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/languid2318) [![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/22271647) [![Gamil](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radheshpai802@gmail.com)
