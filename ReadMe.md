@@ -3,7 +3,7 @@
 </h1>
 
 # 💫 About Me:
-🔭Currently building a personal portfolio website using React & Tailwind CSS<br>👯 I’m excited to work on open-source projects, especially in web development.<br>🤝 Eager to learn from experienced DevOps professionals about best practices for CI/CD pipelines, Docker, and cloud infrastructure. <br>🌱 I’m currently learning Ruby & Ruby on Rails to contribute to [CurcuitVerse](https://github.com/CircuitVerse/CircuitVerse) Repo<br>💬 Ask me about C++ or Python or Java<br>⚡ When I’m not coding, you can find me binge-watching documentaries or trying to master the Rubik’s cube!<br><br>
+🔭Currently building a personal portfolio website using React & Tailwind CSS<br>👯 I’m excited to work on open-source projects, especially in web development.<br>🤝 Eager to learn from experienced DevOps professionals about best practices for CI/CD pipelines, Docker, and cloud infrastructure. <br>🌱 I’m currently learning Ruby & Ruby on Rails to contribute to [CircuitVerse](https://github.com/CircuitVerse/CircuitVerse) Repo<br>💬 Ask me about C++ or Python or Java<br>⚡ When I’m not coding, you can find me binge-watching documentaries or trying to master the Rubik’s cube!<br><br>
 
 # 📌 Pinned Repos:
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=radheshpai87&repo=Kalvium-Code-Vault&theme=dracula)](https://github.com/radheshpai87/Kalvium-Code-Vault)$~~~$[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=radheshpai87&repo=radheshpai87.github.io&theme=dracula)](https://github.com/radheshpai87/radheshpai87.github.io)
