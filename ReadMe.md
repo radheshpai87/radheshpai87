@@ -3,7 +3,7 @@
 </h1>
 
 ## 💫 About Me:
-🔭Currently building a personal portfolio website using React & Tailwind CSS<br>👯 I’m excited to work on open-source projects, especially in web development.<br>🤝 Eager to learn from experienced DevOps professionals about best practices for CI/CD pipelines, Docker, and cloud infrastructure. <br>🌱 I’m currently learning Svelte and PostgresSQL [Mathesar](https://github.com/mathesar-foundation/mathesar) Repo<br>💬 Ask me about C++ or Python or Java<br>⚡ When I’m not coding, you can find me binge-watching documentaries or trying to master the Rubik’s cube!<br><be>
+🔭Currently building a personal portfolio website using React & Tailwind CSS<br>👯 I’m excited to work on open-source projects, especially in web development.<br>🤝 Eager to learn from experienced DevOps professionals about best practices for CI/CD pipelines, Docker, and cloud infrastructure. <br>🌱 I’m currently learning Svelte and PostgresSQL and contributing to [Mathesar](https://github.com/mathesar-foundation/mathesar) Repo<br>💬 Ask me about C++ or Python or Java<br>⚡ When I’m not coding, you can find me binge-watching documentaries or trying to master the Rubik’s cube!<br><be>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
