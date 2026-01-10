@@ -26,7 +26,7 @@
 
 <br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=radheshpai87&theme=dracula&hide_border=true&cache_seconds=21600)
+![GitHub Streak](https://streak-stats.demolab.com/api?user=radheshpai87&theme=dracula&hide_border=true&cache_seconds=21600)
 
 <br><br>
 
