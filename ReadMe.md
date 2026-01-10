@@ -23,9 +23,7 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats-fast.vercel.app/api?username=radheshpai87&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
-
 <br><br>
-
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=radheshpai87&theme=dracula&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
