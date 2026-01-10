@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats-fast.vercel.app/api?username=radheshpai87&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 <br><br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=radheshpai87&theme=dracula&hide_border=true)
+![](https://streak-stats.demolab.com/?user=radheshpai87&theme=dracula&hide_border=true)
 <br><br>
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=radheshpai87&theme=dracula&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
