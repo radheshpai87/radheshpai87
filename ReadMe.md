@@ -26,10 +26,6 @@
 
 <br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com/api?user=radheshpai87&theme=dracula&hide_border=true&cache_seconds=21600)
-
-<br><br>
-
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=radheshpai87&theme=dracula&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
